@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<category>
+
+	<book name="LuckiestGirlAlive" catalog="fiction">
+		<title> Luckiest Girl Alive </title>
+		<artist>
+			<firstname> Jessica </firstname>
+			<familyname> Knoll </familyname>
+		</artist>
+		<was> $29.99 </was>
+		<price> $20.99 </price>
+		<language> English </language>
+		<isbn> 9781447286202 </isbn>
+		<isbn-10> 1447286200 </isbn-10>
+		<catalog> Fiction </catalog>
+		<description>
+		HER PERFECT LIFE IS A PERFECT LIE. . .
+
+		Ani FaNelli is the woman you love to hate. The woman who has it all. But behind the meticulously crafted faÃ§ade lies the darkest and most violent of pasts . . .
+
+		When a documentary producer invites Ani to tell her side of the chilling and violent incident that took place when she was a teenager, she hopes it will be an opportunity to prove how far she's come since then. She'll even let the production company film her wedding to the wealthy Luke Harrison, the final step in her transformation.
+
+		But as the wedding and filming converge, Ani's immaculate faÃ§ade begins to crack, and she soon realises that there's always a price to pay for perfection. 
+		</description>
+		<image> images/bookcoversmall/LuckiestGirlAlive.jpg </image>
+		<image2> images/bookcover/LuckiestGirlAlive.jpg </image2>
+		<url> LuckiestGirlAlive.html </url>
+	</book>
+	
+	<book name="PaperTowns" catalog="fiction">
+		<title> Paper Towns </title>
+		<artist>
+			<firstname> John </firstname>
+			<familyname> Green </familyname>
+		</artist>
+		<was> $19.99 </was>
+		<price> $19.99 </price>
+		<language> English </language>
+		<isbn> 9781460750568 </isbn>
+		<isbn-10> 146075056X  </isbn-10>
+		<catalog> Fiction </catalog>
+		<description>
+		The stunning film tie-in edition of Paper Towns, from the award-winning author of Looking for Alaska and The Fault in Our Stars.
+		
+		Quentin Jacobsen - Q to his friends - is eighteen and has always loved the edgy Margo Roth Spiegelman. As children, they'd discovered a dead body together. Now at high school, Q's nerdy while Margo is uber-cool. One night, Q is basking in the predictable boringness of his life when Margo, dressed as a ninja, persuades him to partake in several hours of mayhem. then she vanishes.
+		
+		While her family shrugs off this latest disappearance, Q follows Margo's string of elaborate clues - including a poem about death. Q's friends Radar, Ben and Lacey help with the search, and a post turns up on a website: Margo will be in a certain location for the next 24 hours only. the race is on! After an epic drive through the night, they catch up with Margo, and Q learns first-hand that the way you think about a person isn't the way they actually are.
+		</description>
+		<image> images/bookcoversmall/PaperTowns.jpg </image>
+		<image2> images/bookcover/PaperTowns.jpg </image2>
+		<url> PaperTowns.html </url>
+	</book>
+	
+	<book name="TheDustThatFallsfromDreams" catalog="fiction">
+		<title> The Dust That Falls from Dreams </title>
+		<artist>
+			<firstname> Louis de </firstname>
+			<familyname> Bernieres </familyname>
+		</artist>
+		<was> $32.99 </was>
+		<price> $32.99 </price>
+		<language> English </language>
+		<isbn> 9781846558771 </isbn>
+		<isbn-10> 1846558778 </isbn-10>
+		<catalog> Fiction </catalog>
+		<description>
+		In the brief golden years of King Edward VII's reign, Rosie McCosh and her three sisters are growing up in an idyllic and eccentric household in Kent, with their 'pals' the Pitt boys on one side of the fence and the Pendennis boys on the other. But their days of childhood innocence and adventure are destined to be followed by the apocalypse that will overwhelm their world as they come to adulthood.
+		
+		For Rosie, the path ahead is full of challenges: torn between her love for two young men, her sense of duty and her will to live her life to the full, she has to navigate her way through extraordinary times. Can she, and her sisters, build new lives out of the opportunities and devastations that follow the Great War?
+		
+		Louis de Berni res' magnificent and moving novel follows the lives of an unforgettable cast of characters as the Edwardian age disintegrates into the Great War, and they strike out to seek what happiness can be salvaged from the ruins of the old world.
+		</description>
+		<image> images/bookcoversmall/TheDustThatFallsfromDreams.jpg </image>
+		<image2> images/bookcover/TheDustThatFallsfromDreams.jpg </image2>
+		<url> TheDustThatFallsfromDreams.html </url>
+	</book>
+	
+	<book name="LiveWellonLess" catalog="nonfiction">
+		<title> Live Well on Less: A Practical Guide to Running a Lean Household </title>
+		<artist>
+			<firstname> Jody </firstname>
+			<familyname> Allen </familyname>
+		</artist>
+		<was> $24.99 </was>
+		<price> $19.00 </price>
+		<language> English </language>
+		<isbn> 9780143799955 </isbn>
+		<isbn-10> 0143799959 </isbn-10>
+		<catalog> Non-Fiction </catalog>
+		<description>
+		Live lean, not mean!
+
+		Want to put your money on a diet and save hundreds of dollars?
+		
+		This book gives you the lowdown on spring-cleaning your finances so you can be frugal while still living well.
+		
+		Jody Allen, of Stay at Home Mum fame, will help you set up your household budget, get the best deals, and save money on everything from your car to your clothes.
+		
+		And with over 50 thrifty - but fabulous - recipes, you can be a cost cutter in the kitchen as well!
+		
+		Inside you'll find:
+		- A room-by-room guide to household economy
+		- Hints and tips for getting organised
+		- Ideas for turning leftovers into delicious family meals
+		- Inspring stories from other savvy mums
+		- Get sorted and start saving
+		</description>
+		<image> images/bookcoversmall/LiveWellonLess.jpg </image>
+		<image2> images/bookcover/LiveWellonLess.jpg </image2>
+		<url> LiveWellonLess.html </url>
+	</book>
+	
+	<book name="EatRealFood" catalog="nonfiction">
+		<title> Eat Real Food </title>
+		<artist>
+			<firstname> David </firstname>
+			<familyname> Gillespie </familyname>
+		</artist>
+		<was> $29.99 </was>
+		<price> $29.99 </price>
+		<language> English </language>
+		<isbn> 9781743533017 </isbn>
+		<isbn-10> 1743533012 </isbn-10>
+		<catalog> Non-Fiction </catalog>
+		<description>
+		In the last 100 years, we've become fatter and sicker with millions of people developing serious diseases from diabetes to cancer. Health gurus confuse us with complex diets and expensive ingredients; food manufacturers load their products with addictive and destructive ingredients causing our increasing weight and declining health. But help is at hand. Health and consumer advocate David Gillespie shares the simple secret of weight loss and wellbeing: swap processed food for REAL FOOD.
+
+		Eat Real Food features:
+			An explanation of why diets don't work and provides a focus on what does;
+			Information on how to lose weight permanently, not just in the short-term;
+			Evidence-based science explaining the real culprits of ill health and weight gain;
+			Advice on how to read food labels;
+			Easy recipes to replace common processed items and meal plans that show how simple it is to shop, plan and cook Real Food;
+			Tips for lunchboxes, parties, and recipes for food kids actually like.
+		
+		Eat Real Food is the safe, effective and cheap solution to lose weight and improve our health permanently.
+		</description>
+		<image> images/bookcoversmall/EatRealFood.jpg </image>
+		<image2> images/bookcover/EatRealFood.jpg </image2>
+		<url> EatRealFood.html </url>
+	</book>
+	
+	<book name="MyLife" catalog="nonfiction">
+		<title> My Life: It's a Long Story </title>
+		<artist>
+			<firstname>  Willie </firstname>
+			<familyname> Nelson </familyname>
+		</artist>
+		<was> $32.99 </was>
+		<price> $32.99 </price>
+		<language> English </language>
+		<isbn> 9780751561746 </isbn>
+		<isbn-10> 0751561746 </isbn-10>
+		<catalog> Non-Fiction </catalog>
+		<description>
+		The definitive autobiography of Willie Nelson
+
+		This is the unvarnished, complete story of Willie Nelson's life, told in his distinct voice and leaving no moment or experience unturned, from Texas and Nashville to Hawaii and his legendary bus.
+
+		Having recently turned 80, Nelson is ready to shine on a light on all aspects of his life, including his drive to write music, the women in his life, his collaborations, and his biggest lows and highs-from his bankruptcy to the founding of Farm Aid.
+
+		An American icon who still tours the country and headlines music festivals, Willie Nelson and his music have found their way into the hearts and minds of fans the world over, winning ten Grammys and receiving the Kennedy Center Honors. Now it's time to hear the last word about his life-from the man himself.
+		</description>
+		<image> images/bookcoversmall/MyLife.jpg </image>
+		<image2> images/bookcover/MyLife.jpg </image2>
+		<url> MyLife.html </url>
+	</book>
+	
+	<book name="SwordofSummer" catalog="nonfiction">
+		<title> Magnus Chase: Sword of Summer </title>
+		<artist>
+			<firstname> Rick </firstname>
+			<familyname> Riordan </familyname>
+		</artist>
+		<was> $19.99 </was>
+		<price> $15.99 </price>
+		<language> English </language>
+		<isbn> 9780141342429 </isbn>
+		<isbn-10> 0141342420 </isbn-10>
+		<catalog> Non-Fiction </catalog>
+		<description>
+		The first book in the incredible new series from the author of Percy Jackson, the Kane Chronicles and Heroes of Olympus.
+
+		Magnus Chase has always been a troubled kid. Since his mother's mysterious death, he's lived alone on the streets of Boston, surviving by his wits, keeping one step ahead of the police and the truant officers. One day, he's tracked down by an uncle he's never met - a man his mother claimed was dangerous. His uncle tells him an impossible secret: Magnus is the son of a Norse god. The Viking myths are true. The gods of Asgard are preparing for war. Trolls, giants and worse monsters are stirring for doomsday. To prevent Ragnarok, Magnus must search the Nine Worlds for a weapon that has been lost for thousands of years.
+
+		When an attack by fire giants forces him to choose between his own safety and the lives of hundreds of innocents, Magnus makes a fatal decision.
+
+		Sometimes, the only way to start a new life is to die . . .
+		</description>
+		<image> images/bookcoversmall/SwordofSummer.jpg </image>
+		<image2> images/bookcover/SwordofSummer.jpg </image2>
+		<url> SwordofSummer.html </url>
+	</book>
+	
+	<book name="ClementineRoseandtheBirthdayEmergency" catalog="children"> 
+		<title> Clementine Rose and the Birthday Emergency </title>
+		<artist>
+			<firstname> Jacqueline </firstname>
+			<familyname> Harvey </familyname>
+		</artist>
+		<was> $12.99 </was>
+		<price> $12.99 </price>
+		<language> English </language>
+		<isbn> 9780857985163 </isbn>
+		<isbn-10> 0857985167 </isbn-10>
+		<catalog> Children </catalog>
+		<description>
+		Will an unexpected emergency ruin Clementine's party plans?
+
+		Clementine Rose is counting down the days until her birthday party. But first there's the school sports carnival to attend and a very special race to run. There's also the all-important party theme to decide on!
+
+		Amid all the excitement, Lavender doesn't seem her usual self. A trip to the vet is in store, and now Clementine has butterflies in her tummy for all the wrong reasons. Will Lavender be able to attend the party? And why Aunt Violet is acting so mysteriously?
+		</description>
+		<image> images/bookcoversmall/ClementineRoseandtheBirthdayEmergency.jpg </image>
+		<image2> images/bookcover/ClementineRoseandtheBirthdayEmergency.jpg </image2>
+		<url> ClementineRoseandtheBirthdayEmergency.html </url>
+	</book>
+	
+	<book name="MiddleSchoolJustMyRottenLuck" catalog="children">
+		<title> Middle School: Just My Rotten Luck </title>
+		<artist>
+			<firstname> James </firstname>
+			<familyname> Patterson </familyname>
+		</artist>
+		<was> $15.99 </was>
+		<price> $125.99 </price>
+		<language> English </language>
+		<isbn> 9780099596455 </isbn>
+		<isbn-10> 0099596458 </isbn-10>
+		<catalog> Children </catalog>
+		<description>
+		The seventh novel in James Patterson's bestselling Middle School series
+
+		In this seventh Middle School episode, Rafe heads back to the place his misadventures began: the dreaded Hills Village Middle School, where he's now being forced to take 'special' classes... He also finds himself joining the school's football team â€?alongside his main tormenter, Miller the Killer!
+
+		But Rafe has grand plans for a better year: First, he decides to start a super-secret art project that's sure to rock the school. Then, if Rafe manages to make a play to save his team, he might have to deal with something completely new: popularity!
+		</description>
+		<image> images/bookcoversmall/MiddleSchoolJustMyRottenLuck.jpg </image>
+		<image2> images/bookcover/MiddleSchoolJustMyRottenLuck.jpg </image2>
+		<url> MiddleSchoolJustMyRottenLuck.html </url>
+	</book>
+	
+	<book name="IntroductiontoComputationalScience" catalog="acdemic">
+		<title> Introduction to Computational Science: Modeling and Simulation for the Sciences </title>
+		<artist>
+			<firstname> Angela B. </firstname>
+			<familyname> Shiflet </familyname>
+		</artist>
+		<was> $142.75 </was>
+		<price> $132.75 </price>
+		<language> English </language>
+		<isbn> 9780691125657 </isbn>
+		<isbn-10> 0691125651 </isbn-10>
+		<catalog> Academic </catalog>
+		<description>
+		Computational science is a quickly emerging field at the intersection of the sciences, computer science, and mathematics because much scientific investigation now involves computing as well as theory and experiment. However, limited educational materials exist in this field. "Introduction to Computational Science" fills this void with a flexible, readable textbook that assumes only a background in high school algebra and enables instructors to follow tailored pathways through the material. It is the first textbook designed specifically for an introductory course in the computational science and engineering curriculum.
+
+		The text embraces two major approaches to computational science problems: System dynamics models with their global views of major systems that change with time; and cellular automaton simulations with their local views of how individuals affect individuals. While the text is generic, an extensive author-generated Web-site contains tutorials and files in a variety of software packages to accompany the text.Generic software approach in the text Web site with tutorials and files in a variety of software packages Engaging examples, exercises, and projects that explore science Additional, substantial projects for students to develop individually or in teams Consistent application of the modeling process Quick review questions and answers Projects for students to develop individually or in teams Reference sections for most modules, as well as a glossary Online instructor's manual with a test bank and solutions
+		</description>
+		<image> images/bookcoversmall/IntroductiontoComputationalScience.jpg </image>
+		<image2> images/bookcover/IntroductiontoComputationalScience.jpg </image2>
+		<url> IntroductiontoComputationalScience.html </url>
+	</book>
+	
+	<book name="FundamentalsofDigitalLogicwithVHDLDesign" catalog="acdemic">
+		<title> Fundamentals of Digital Logic with VHDL Design: With CD-ROM </title>
+		<artist>
+			<firstname> Stephen </firstname>
+			<familyname> Brown </familyname>
+		</artist>
+		<was> $190.25 </was>
+		<price> $190.25 </price>
+		<language> English </language>
+		<isbn> 9780077221430 </isbn>
+		<isbn-10> 0077221435 </isbn-10>
+		<catalog> Academic </catalog>
+		<description>
+		"Fundamentals of Digital Logic with VHDL Design" teaches the basic design techniques for logic circuits. The text provides a clear and easily understandable discussion of logic circuit design without the use of unnecessary formalism. It emphasizes the synthesis of circuits and explains how circuits are implemented in real chips. Fundamental concepts are illustrated by using small examples, which are easy to understand. Then, a modular approach is used to show how larger circuits are designed.
+
+		VHDL is a complex language so it is introduced gradually in the book. Each VHDL feature is presented as it becomes pertinent for the circuits being discussed. While it includes a discussion of VHDL, the book provides thorough coverage of the fundamental concepts of logic circuit design, independent of the use of VHDL and CAD tools. A CD-ROM containg all of the VHDL design examples used in the book, as well Altera's Quartus II CAD software, is included free with every text.
+		</description>
+		<image> images/bookcoversmall/FundamentalsofDigitalLogicwithVHDLDesign.jpg </image>
+		<image2> images/bookcover/FundamentalsofDigitalLogicwithVHDLDesign.jpg </image2>
+		<url> FundamentalsofDigitalLogicwithVHDLDesign.html </url>
+	</book>
+	
+	<book name="DistributedSystems" catalog="acdemic">
+		<title> Distributed Systems: Principles and Paradigms </title>
+		<artist>
+			<firstname>  Andrew S. </firstname>
+			<familyname> Tanenbaum </familyname>
+		</artist>
+		<was> $197.80 </was>
+		<price> $197.80 </price>
+		<language> English </language>
+		<isbn> 9781292025520 </isbn>
+		<isbn-10> 1292025522 </isbn-10>
+		<catalog> Academic </catalog>
+		<description>
+		For courses on Distributed Systems, Distributed Operating Systems, and Advanced Operating Systems focusing on distributed systems, found in departments of Computer Science, Computer Engineering and Electrical Engineering.
+		
+		Very few textbooks today explore distributed systems in a manner appropriate for university students. In this unique text, esteemed authors Tanenbaum and van Steen provide full coverage of the field in a systematic way that can be readily used for teaching. No other text examines the underlying principles â€?and their applications to a wide variety of practical distributed systems â€?with this level of depth and clarity.
+		</description>
+		<image> images/bookcoversmall/DistributedSystems.jpg </image>
+		<image2> images/bookcover/DistributedSystems.jpg </image2>
+		<url> DistributedSystems.html </url>
+	</book>
+	
+</category>
+		
